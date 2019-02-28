@@ -55,15 +55,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.62511349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.36562783"
-       x="13.910567"
-       y="13.107744"
-       id="text31"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;test&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       x="86.694984"
+       y="71.306763"
+       id="niv"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;niv&quot;,&quot;type&quot;:&quot;Good&quot;}"
        transform="scale(0.80236344,1.246318)"><tspan
          sodipodi:role="line"
          id="tspan29"
-         x="13.910567"
-         y="13.107744"
+         x="86.694984"
+         y="71.306763"
          style="fill:#0000ff;stroke-width:0.36562783">%1.0f</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -76,10 +76,10 @@
            x="278.0777"
            y="228.45781" /></flowRegion><flowPara
          id="flowPara39" /></flowRoot>    <ellipse
-       style="fill:#aa0000;stroke-width:0.11961988"
+       style="fill:#008000;stroke-width:0.11961988"
        id="path53"
-       cx="26.567287"
-       cy="38.013165"
+       cx="86.454727"
+       cy="52.892033"
        rx="13.389536"
        ry="17.005804" />
   </g>
