@@ -58,9 +58,10 @@
      id="text8">Silo 1</text>
   <text
      class="cls-2"
-     transform="translate(76.53 58.83)"
+     transform="translate(76.53,58.83)"
      id="text10"
-     inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%txtf&quot;,&quot;type&quot;:&quot;Good&quot;}">57%</text>
+     inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;txt&quot;,&quot;type&quot;:&quot;Good&quot;}"
+     style="font-size:8px;font-family:HelveticaNeue, 'Helvetica Neue';fill:#c6c6c7">%f</text>
   <path
      class="cls-3"
      d="M87.72,22.81a48,48,0,1,1-62,0"
