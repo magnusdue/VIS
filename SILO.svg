@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 113.39 113.39"
+   version="1.1"
+   sodipodi:docname="SILO.svg"
+   inkscape:version="0.92.3 (cc100de, 2018-03-31, custom)">
+  <metadata
+     id="metadata4397">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>silo1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview4395"
+     showgrid="false"
+     inkscape:zoom="7.4786137"
+     inkscape:cx="56.695"
+     inkscape:cy="56.695"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4364">
+    <style
+       id="style4362">.cls-1{font-size:12px;}.cls-1,.cls-2,.cls-7{fill:#c6c6c7;font-family:HelveticaNeue, Helvetica Neue;}.cls-2{font-size:8px;}.cls-3,.cls-5{fill:none;stroke-miterlimit:10;}.cls-3{stroke:#347674;}.cls-4{fill:#a7ce86;opacity:0.5;}.cls-5{stroke:#a9d9d7;stroke-width:0.25px;}.cls-6{fill:#a9d9d7;}.cls-7{font-size:7px;}</style>
+  </defs>
+  <title
+     id="title4366">silo1</title>
+  <text
+     class="cls-1"
+     transform="translate(41.36 14.51)"
+     id="text4368">Silo 1</text>
+  <text
+     class="cls-2"
+     transform="translate(76.53 58.83)"
+     id="text4370">57%</text>
+  <path
+     class="cls-3"
+     d="M87.72,22.81a48,48,0,1,1-62,0"
+     id="path4372" />
+  <polyline
+     class="cls-4"
+     points="46.54 75 46.54 54.12 66.85 54.12 66.85 75"
+     id="polyline4374"
+     transform="matrix(1,0,0,1.9707854,0,-72.808908)"
+     style="opacity:0.5;fill:#a7ce86"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;Temp&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;readonly&quot;:1,&quot;tag&quot;:&quot;Level&quot;}" />
+  <polygon
+     class="cls-5"
+     points="58.75 95.11 54.64 95.11 54.6 91.62 46.54 75 46.54 33.85 54.6 27.27 58.78 27.27 66.85 33.85 66.85 75 58.75 91.62 58.75 95.11"
+     id="polygon4376" />
+  <rect
+     class="cls-6"
+     x="46.01"
+     y="70.28"
+     width="0.53"
+     height="24.83"
+     id="rect4378" />
+  <rect
+     class="cls-6"
+     x="66.85"
+     y="70.28"
+     width="0.53"
+     height="24.83"
+     id="rect4380" />
+  <circle
+     class="cls-4"
+     cx="33.94"
+     cy="43.4"
+     r="3.79"
+     id="circle4382" />
+  <circle
+     class="cls-4"
+     cx="33.94"
+     cy="57.4"
+     r="3.79"
+     id="circle4384" />
+  <circle
+     class="cls-4"
+     cx="33.94"
+     cy="71.4"
+     r="3.79"
+     id="circle4386" />
+  <text
+     class="cls-7"
+     transform="translate(21.88 46.01)"
+     id="text4388">L</text>
+  <text
+     class="cls-7"
+     transform="translate(21.88 60.42)"
+     id="text4390">T</text>
+  <text
+     class="cls-7"
+     transform="translate(21.88 74.01)"
+     id="text4392">H</text>
+</svg>
