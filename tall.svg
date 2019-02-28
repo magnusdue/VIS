@@ -75,5 +75,19 @@
            height="113.75905"
            x="278.0777"
            y="228.45781" /></flowRegion><flowPara
-         id="flowPara39"></flowPara></flowRoot>  </g>
+         id="flowPara39"></flowPara></flowRoot>    <ellipse
+       style="fill:#0000ff;stroke-width:0.26458332"
+       id="path53"
+       cx="100.21768"
+       cy="171.92297"
+       rx="37.567696"
+       ry="29.652842" />
+    <ellipse
+       style="fill:#0000ff;stroke-width:0.26458332"
+       id="path55"
+       cx="103.56199"
+       cy="181.62146"
+       rx="5.4623652"
+       ry="1.0032916" />
+  </g>
 </svg>
