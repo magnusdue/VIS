@@ -38,7 +38,7 @@
      inkscape:window-height="1017"
      id="namedview35"
      showgrid="false"
-     inkscape:zoom="2.0813123"
+     inkscape:zoom="7.0569495"
      inkscape:cx="56.695"
      inkscape:cy="56.695"
      inkscape:window-x="-8"
@@ -68,7 +68,10 @@
   <polyline
      class="cls-4"
      points="46.54 75 46.54 54.12 66.85 54.12 66.85 75"
-     id="polyline14" />
+     id="polyline14"
+     inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;20&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;level&quot;},{&quot;data&quot;:&quot;50&quot;,&quot;param&quot;:&quot;#FFFFFF&quot;,&quot;tag&quot;:&quot;level&quot;}]},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;readonly&quot;:1,&quot;tag&quot;:&quot;level&quot;}"
+     transform="matrix(1,0,0,2,0,-74.39)"
+     style="opacity:0.5;fill:#aa0000" />
   <polygon
      class="cls-5"
      points="58.75 95.11 54.64 95.11 54.6 91.62 46.54 75 46.54 33.85 54.6 27.27 58.78 27.27 66.85 33.85 66.85 75 58.75 91.62 58.75 95.11"
